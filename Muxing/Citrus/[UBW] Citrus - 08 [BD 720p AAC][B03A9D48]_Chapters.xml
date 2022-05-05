@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagDefault>0</EditionFlagDefault>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionUID>17631354845154881977</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterUID>6228842970887941762</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>[UBW] Citrus - 08: Prolog</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapterCountry>id</ChapterCountry>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:48.048000000</ChapterTimeStart>
+      <ChapterUID>12773071341502331316</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>[UBW] Citrus - 08: Lagu Pembuka (nano.RIPE - Azalea)</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapterCountry>id</ChapterCountry>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:02:18.013000000</ChapterTimeStart>
+      <ChapterUID>1860244995978135709</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>[UBW] Citrus - 08: Bagian 1</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapterCountry>id</ChapterCountry>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:10:27.043000000</ChapterTimeStart>
+      <ChapterUID>16763607119742248892</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>[UBW] Citrus - 08: Bagian 2</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapterCountry>id</ChapterCountry>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:21:55.022000000</ChapterTimeStart>
+      <ChapterUID>4468249131766778808</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>[UBW] Citrus - 08: Lagu Penutup (Mia REGINA - Dear Teardrop)</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapterCountry>id</ChapterCountry>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:25.029000000</ChapterTimeStart>
+      <ChapterUID>336241238237449638</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>[UBW] Citrus - 08: Cuplikan</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapterCountry>id</ChapterCountry>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
